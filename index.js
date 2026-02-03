@@ -6,7 +6,7 @@ Date.prototype.addDays = function (days) {
     
     // Streamer ID set during site generation
     const STREAMER_ID = "22";
-    const API_BASE_URL = "https://eri.bot";
+    const API_BASE_URL = "https://crud.eri.bot";
     
     let countdown;
     let streams = [];
